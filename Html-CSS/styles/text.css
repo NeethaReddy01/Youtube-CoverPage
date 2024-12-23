@@ -1,0 +1,43 @@
+
+          
+            
+            .video-text{
+                font-family:Arial;
+                font-size:30px;
+                font-weight:Bold;
+                padding-bottom:0;
+                vertical-align:top 0;
+                margin-bottom:0;
+                width:400px;
+            }
+        
+            .view-text{ 
+                font-family:Arial;
+                font-size:16px;
+                color:grey;
+                padding-top:0;
+                margin-top:0;
+            }
+        
+            .tick-text{
+                font-family:Arial;
+                font-size:16px;
+                color:grey;
+            }
+        
+            .shop-text{
+                
+                font-size:23px;
+                background-color:red;
+                text-align:center;
+                padding-top:20px;
+                padding-bottom:20px;
+                width:900px;
+                cursor:pointer;
+            }
+        
+            .shop:hover{
+                text-decoration:underline;
+            }
+        
+       
